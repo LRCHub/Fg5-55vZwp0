@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "DEADPOOL",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-14T17:39:02.058751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ashes - from Deadpool 2",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/01_Ashes_-_from_Deadpool_2_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ashes (from \"Deadpool 2\" Motion Picture Soundtrack)",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/02_Ashes_(from__Deadpool_2__Motion_Picture_Soundtrack)_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "She Gave Her Heart to Deadpool",
+      "artist": "Emmure",
+      "has_synced": true,
+      "path": "select/03_She_Gave_Her_Heart_to_Deadpool_Emmure.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deadpool Rap",
+      "artist": "Teamheadkick",
+      "has_synced": true,
+      "path": "select/04_Deadpool_Rap_Teamheadkick.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deadpool Rap - Acoustic Version",
+      "artist": "Brentwood Duo",
+      "has_synced": false,
+      "path": "select/05_Deadpool_Rap_-_Acoustic_Version_Brentwood_Duo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Deadpool Rap (Acoustic Version)",
+      "artist": "Brentwood Duo",
+      "has_synced": false,
+      "path": "select/06_Deadpool_Rap_(Acoustic_Version)_Brentwood_Duo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Deadpool Rap - Brown Pants EDM Mix",
+      "artist": "Teamheadkick",
+      "has_synced": false,
+      "path": "select/07_Deadpool_Rap_-_Brown_Pants_EDM_Mix_Teamheadkick.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Deadpool Rap (Brown Pants EDM Mix)",
+      "artist": "Teamheadkick",
+      "has_synced": false,
+      "path": "select/08_Deadpool_Rap_(Brown_Pants_EDM_Mix)_Teamheadkick.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ashes - from \"Deadpool 2\" Motion Picture Soundtrack",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/09_Ashes_-_from__Deadpool_2__Motion_Picture_Soundtrack_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",
+      "artist": "Diplo feat. French Montana, Lil Pump & Zhavia",
+      "has_synced": true,
+      "path": "select/10_Welcome_to_the_Party_(with_French_Montana_&_Lil_Pump,_feat._Zhavia_Ward)_-_from__Diplo_feat._French_Montana,_Lil_Pump_&_Zhavia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Deadpool Rap",
+      "artist": "Teamheadkick",
+      "has_synced": true,
+      "path": "select/11_Deadpool_Rap_Teamheadkick.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ashes (from \"Deadpool 2\" Motion Picture Soundtrack)",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/12_Ashes_(from__Deadpool_2__Motion_Picture_Soundtrack)_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Deadpool 2 Rap",
+      "artist": "Daddyphatsnaps",
+      "has_synced": false,
+      "path": "select/13_Deadpool_2_Rap_Daddyphatsnaps.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ashes (Steve Aoki Deadpool Demix)",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/14_Ashes_(Steve_Aoki_Deadpool_Demix)_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Deadpool vs Boba Fett",
+      "artist": "Epic Rap Battles of History",
+      "has_synced": true,
+      "path": "select/15_Deadpool_vs_Boba_Fett_Epic_Rap_Battles_of_History.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ashes - from \"Deadpool 2\" Motion Picture Soundtrack",
+      "artist": "Halocene",
+      "has_synced": false,
+      "path": "select/16_Ashes_-_from__Deadpool_2__Motion_Picture_Soundtrack_Halocene.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Deadpool Rap (Brown Pants EDM mix)",
+      "artist": "Teamheadkick",
+      "has_synced": true,
+      "path": "select/17_Deadpool_Rap_(Brown_Pants_EDM_mix)_Teamheadkick.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Deadpool Rap (acoustic version)",
+      "artist": "Brentwood Duo",
+      "has_synced": true,
+      "path": "select/18_Deadpool_Rap_(acoustic_version)_Brentwood_Duo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DEADPOOL feat. 花譜",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_DEADPOOL_feat._花譜_星街すいせい.txt"
+    }
+  ]
+}
