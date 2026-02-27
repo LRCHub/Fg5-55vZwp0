@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "DEADPOOL（feat. 花譜）",
   "base_artist": "星街すいせい",
-  "createdAt": "2026-01-12T09:05:55.550157Z",
+  "createdAt": "2026-02-27T13:25:37.366883Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,22 @@
       "artist": "Hoshimachi Suisei",
       "has_synced": true,
       "path": "select/03_DEADPOOL_feat._花譜_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DEADPOOL feat. 花譜",
+      "artist": "Hoshimachi Suisei, 花譜",
+      "has_synced": true,
+      "path": "select/04_DEADPOOL_feat._花譜_Hoshimachi_Suisei,_花譜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DEADPOOL feat.花譜",
+      "artist": "Hoshimachi Suisei, KAF, haruno",
+      "has_synced": true,
+      "path": "select/05_DEADPOOL_feat.花譜_Hoshimachi_Suisei,_KAF,_haruno.lrc"
     },
     {
       "id": "petitlyrics_1",
